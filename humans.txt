@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Nilsen Strandskov -- developer -- @nhstrandskov
+
+# THANKS
+
+    special thanks to the teams behind bootstrap initializr
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
